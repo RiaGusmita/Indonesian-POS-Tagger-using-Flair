@@ -1,1 +1,0 @@
-Gemar ADJ#bermain VERB#gitar NOUN#, PUNCT#ia PRON#bermain VERB#di ADP#sebuah DET#konser NOUN#di ADP#sana PRON#pada ADP#tahun NOUN#yang PRON#sama ADJ#. PUNCT
